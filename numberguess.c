@@ -15,9 +15,9 @@ int main (void) {
     printf("Excellent! You got it at the very first guess!:\n");
 
     else if (first_guess <= 436) {
-      printf("Too low, try again. Please have another guess:\n")
+      printf("Too low, try again. Please have another guess:\n");
 
-      else if (first_guess >= 438) {
+      else (first_guess >= 438) {
         printf("Too high, try again. Please insert another guess:\n");
       }
     }
