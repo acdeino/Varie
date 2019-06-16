@@ -17,5 +17,4 @@ int main (void) {
 
     while (x < 255);
     }
-    /// efghg///
 }
