@@ -6,7 +6,6 @@ int main (void) {
     while (1) {
         x = 0;
         y = 1;
-        
         do {
             printf ("%d\n", x);
 
