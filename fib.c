@@ -11,7 +11,7 @@ int main (void) {
 
             z = x + y;
             x = y;
-            y = x;
+            y = z;
         } 
 
     while (x < 255);
